@@ -1,0 +1,7 @@
+{
+  "name": "Hero Bikes - Excellence in Motion",
+  "description": "A premium web platform for exploring, comparing, and booking Hero bike models with advanced features like 360° views and side-by-side comparison.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
